@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Signup";
+}
+
+<div class="container pt-5">
+    <div class="row justify-content-md-center">
+        <div class="col-6 border border-dark">
+            <h3 class="text-center">Signup</h3>
+            <hr/>
+            <form method="post" class="p-3">
+                <label for="name">Full Nmae</label>
+                <input type="text" class="form-control" />
+
+                <label for="email">Email</label>
+                <input type="email" class="form-control" />
+                
+
+                <label for="gender">Gender</label>
+                <select class="form-control" for="gender">
+                    <option value="">Male</option>
+                    <option value="">Female</option>
+                    <option value="">Other</option>
+                </select>
+
+                <label for="password">Password</label>
+                <input type="password" class="form-control" />
+
+                <label for="confirmPassword">Confirm Password</label>
+                <input type="password" for="confirmPassword" class="form-control" />
+
+                <hr />
+                <button type="submit" class="btn btn-success">Save</button>
+                <div class="row">
+                    <div class="col-md-auto pt-3">
+                        <p>Already have an account?</p>
+                        <a href="~/Auth/Login">Login</a>
+                    </div>                
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

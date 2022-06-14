@@ -1,0 +1,29 @@
+﻿.login-button
+{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 0.5s ease;
+    margin-right: 10px;
+}
+.login-button:hover{
+    border: 1px solid black;
+    opacity: 1;
+    background: white;
+    color: black !important;
+}
+.signup-button {
+    transition: 0.5s ease;
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 5px;
+    padding-top: 5px;
+}
+
+    .signup-button:hover {
+        opacity: 1;
+        border: 1px solid black;
+        background: red;
+        color: black !important;
+    }
