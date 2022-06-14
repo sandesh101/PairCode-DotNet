@@ -21,9 +21,25 @@
     padding-top: 5px;
 }
 
-    .signup-button:hover {
+.signup-button:hover {
         opacity: 1;
         border: 1px solid black;
         background: red;
         color: black !important;
-    }
+}
+
+#post-button{
+    padding: 7px;
+    margin-top: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 7px;
+    transition: 0.2s ease-in;
+}
+
+#post-button:hover{
+    background-color: black;
+    color: white;
+}

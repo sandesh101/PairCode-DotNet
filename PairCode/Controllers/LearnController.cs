@@ -8,5 +8,10 @@ namespace PairCode.Controllers
         {
             return View();
         }
+
+        public ViewResult Question()
+        {
+            return View();
+        }
     }
 }
