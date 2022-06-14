@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PairCode",
-    "\\PairCode\\Views\\Home",
-    "\\PairCode\\Views\\Shared"
+    "\\PairCode"
   ],
   "SelectedNode": "\\PairCode.sln",
   "PreviewInSolutionExplorer": false
