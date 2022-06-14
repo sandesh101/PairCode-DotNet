@@ -23,8 +23,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DotNetProject/PairCode/PairCode/Views/Buy/Buy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5XEJ1eS5jc2h0bWw=
+[E:/DotNetProject/PairCode/PairCode/Views/Buy/Buynow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5XEJ1eW5vdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/DotNetProject/PairCode/PairCode/Views/Home/Index.cshtml]
@@ -33,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/DotNetProject/PairCode/PairCode/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DotNetProject/PairCode/PairCode/Views/Learn/Learnwithfriend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cTGVhcm53aXRoZnJpZW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/DotNetProject/PairCode/PairCode/Views/Shared/Error.cshtml]
