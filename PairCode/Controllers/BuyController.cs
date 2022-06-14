@@ -4,7 +4,7 @@ namespace PairCode.Controllers
 {
     public class BuyController : Controller
     {
-        public ViewResult Buy()
+        public ViewResult Buynow()
         {
             return View();
         }
