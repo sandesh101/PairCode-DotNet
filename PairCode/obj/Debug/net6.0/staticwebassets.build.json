@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FBqOD4E2emUb4wVprnnfd9W7MPMYbqTOKAD5XZCkwL4=",
+  "Hash": "5sD9QPj09ur30DJID9UWC0JJ5mbHE2G3rhnGvzukOAo=",
   "Source": "PairCode",
   "BasePath": "_content/PairCode",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img_6.jpg"
+    },
+    {
+      "Identity": "E:\\DotNetProject\\PairCode\\PairCode\\wwwroot\\assets\\videos\\Video_1.mp4",
+      "SourceId": "PairCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNetProject\\PairCode\\PairCode\\wwwroot\\",
+      "BasePath": "_content/PairCode",
+      "RelativePath": "assets/videos/Video_1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\videos\\Video_1.mp4"
     },
     {
       "Identity": "E:\\DotNetProject\\PairCode\\PairCode\\wwwroot\\css\\button.css",
